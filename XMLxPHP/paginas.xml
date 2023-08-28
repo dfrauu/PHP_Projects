@@ -1,0 +1,61 @@
+<pages>
+    <pagina>
+        <nombre>YouTube</nombre>
+        <descripcion>Pagina para compartir videos y administrar canales.</descripcion>
+        <url>http://www.youtube.com</url>
+    </pagina>
+
+    <pagina>
+        <nombre>Facebook</nombre>
+        <descripcion>Pagina web para compartir posts, foros, comunidades, grupos y paginas personales.</descripcion>
+        <url>http://www.facebook.com</url>
+    </pagina>
+
+    <pagina>
+        <nombre>Twitter</nombre>
+        <descripcion>Pagina para compartir publicaciones de texto, video o imagen y creacion de hilos de conversacion.</descripcion>
+        <url>http://www.twitter.com</url>
+    </pagina>
+
+    <pagina>
+        <nombre>Instagram</nombre>
+        <descripcion>Pagina para compartir fotos y videos con mensajeria instantanea.</descripcion>
+        <url>http://www.instagram.com</url>
+    </pagina>
+
+    <pagina>
+        <nombre>Twitch</nombre>
+        <descripcion>Pagina para transmisiones en vivo con mensajes en tiempo real.</descripcion>
+        <url>http://www.twitch.com</url>
+    </pagina>
+
+    <pagina>
+        <nombre>Pinterest</nombre>
+        <descripcion>Pagina para creacion de tableros de imagenes para crear descripciones visuales para diseños.</descripcion>
+        <url>http://www.pinterest.com</url>
+    </pagina>
+
+    <pagina>
+        <nombre>iLovePDF</nombre>
+        <descripcion>Pagina para manejo de archivos .pdf a otros formatos.</descripcion>
+        <url>http://www.ilovepdf.com</url>
+    </pagina>
+    
+    <pagina>
+        <nombre>GMail</nombre>
+        <descripcion>Pagina para administracion de correos electronicos.</descripcion>
+        <url>http://mail.google.com</url>
+    </pagina>
+    
+    <pagina>
+        <nombre>Discord</nombre>
+        <descripcion>Pagina para mensajeria instantanea y llamadas de voz y video con administracion de servidores.</descripcion>
+        <url>http://discord.com/app</url>
+    </pagina>
+    
+    <pagina>
+        <nombre>Speedtest</nombre>
+        <descripcion>Pagina para prueba de velocidad de internet</descripcion>
+        <url>http://www.speedtest.net/</url>
+    </pagina>
+</pages>

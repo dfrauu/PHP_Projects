@@ -1,0 +1,71 @@
+<directories>
+    <page>
+        <name>Calculer</name>
+        <path>calculer.php</path>
+    </page>
+    
+    <page>
+        <name>Sentencias y Arreglos</name>
+        <path>sentencias/</path>
+    </page>
+    
+    <page>
+        <name>Practica PHP</name>
+        <path>practicaPHP/practicaPHP.php</path>
+    </page>
+    
+    <page>
+        <name>RegistroPHP</name>
+        <path>RegistroPHP/</path>
+    </page>
+    
+    <page>
+        <name>IdiomaCookies</name>
+        <path>IdiomaCookies/</path>
+    </page>
+    
+    <page>
+        <name>ContadorCookies</name>
+        <path>ContadorCookies/ContadorCookies.php</path>
+    </page>
+    
+    <page>
+        <name>SesionesPHP/colores</name>
+        <path>SesionesPHP/colores.php</path>
+    </page>
+    
+    <page>
+        <name>SesionesPHP/visitas</name>
+        <path>SesionesPHP/visitas.php</path>
+    </page>
+    
+    <page>
+        <name>SesionSegura</name>
+        <path>SesionesPHP/SesionSegura/</path>
+    </page>
+    
+    <page>
+        <name>XMLxPHP/paginas</name>
+        <path>XMLxPHP/paginas.php</path>
+    </page>
+    
+    <page>
+        <name>XMLxPHP/ciudades</name>
+        <path>XMLxPHP/ciudades.php</path>
+    </page>
+    
+    <page>
+        <name>bancoABC</name>
+        <path>bancoABC/</path>
+    </page>
+    
+    <page>
+        <name>Solociencia.com</name>
+        <path>Solociencia.com/sites/home.html</path>
+    </page>
+    
+    <page>
+        <name>QatarCup</name>
+        <path>qatarcup</path>
+    </page>
+</directories>
